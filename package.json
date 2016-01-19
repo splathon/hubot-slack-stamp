@@ -1,6 +1,6 @@
 {
   "name": "hubot-slack-stamp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provides stamps (stickers) like LINE in slack.",
   "main": "index.js",
   "scripts": {
